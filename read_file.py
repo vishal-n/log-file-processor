@@ -1,5 +1,6 @@
 # pylint: disable=missing-final-newline
 # To read the contents of a log file
+# Example command to run on the terminal: python read_file.py test.log
 import sys
 
 
