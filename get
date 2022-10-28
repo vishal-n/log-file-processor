@@ -1,4 +1,4 @@
-# python get Hawk
+# Command Usage: python get Hawk
 
 import sys
 from populate_dict import logDict
